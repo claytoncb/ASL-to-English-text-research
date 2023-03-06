@@ -159,7 +159,7 @@ def convert_to_frames(Inputdata_path,word_count,input_type):
     
 if __name__ == '__main__':
 
-    JSON_PATH = '/Users/kevincarpio/CMSIThesis/Real-time-ASL-to-English-text-translation/data'
+    JSON_PATH = '/CMSIThesis/ASL-to-English-text-research/data'
     VIDEOS_PATH = '/data/videos'
     #TrimmedVideos_PATH = '/home/ubuntu/data/videos/TrimmedVideos'
 
